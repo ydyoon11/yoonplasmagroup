@@ -42,7 +42,7 @@ permalink: /team/pi/
 - **Career Mentoring Fellow**, American Physical Society (2022–present)
 - **Program Committee Chair**, International Fusion and Plasma Conference, Korea (2025)
 - **Program Committee**, International Fusion and Plasma Conference, Seoul (2024)
-- Ad-hoc reviewer for *Nature Communications*, *Physics of Plasmas*, *Journal of Plasma Physics*, *Nuclear Fusion*, *Geophysical Research Letters*, *The Astrophysical Journal*, *Plasma Physics and Controlled Fusion*, and *Physica Scripta*
+- Ad-hoc reviewer for *Nature Communications*, *Physical Review Letters*, *Physics of Plasmas*, *Journal of Plasma Physics*, *Nuclear Fusion*, *Geophysical Research Letters*, *The Astrophysical Journal*, *Plasma Physics and Controlled Fusion*, and *Physica Scripta*
 
 ## Contact
 
