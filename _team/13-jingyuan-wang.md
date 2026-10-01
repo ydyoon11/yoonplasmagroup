@@ -1,6 +1,7 @@
 ---
 name: "Jingyuan Wang"
 role: "Alumni"
+listed: false
 title: "BSc Student · Xi'an Jiatong University (Winter 2023)"
 order: 7
 ---

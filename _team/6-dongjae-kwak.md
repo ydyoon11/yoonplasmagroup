@@ -1,6 +1,7 @@
 ---
 name: "Dongjae Kwak"
 role: "Alumni"
+listed: false
 title: "PhD Student · POSTECH"
 order: 3
 ---

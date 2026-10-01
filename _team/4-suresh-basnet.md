@@ -1,8 +1,7 @@
 ---
 name: "Suresh Basnet"
-role: "Postdoc"
+role: "Alumni"
 title: "Postdoctoral Researcher · APCTP"
 photo: "/assets/team/suresh-basnet.jpg"
-order: 3
+order: 2
 ---
-Plasma thermodynamics.

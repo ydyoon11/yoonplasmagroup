@@ -2,15 +2,11 @@
   {% if include.member.photo %}
     <img class="team-photo" src="{{ include.member.photo | relative_url }}" alt="{{ include.member.name }}">
   {% else %}
-    <div class="team-photo team-photo-placeholder"></div>
+    <img class="team-photo" src="{{ '/assets/team/default-profile.svg' | relative_url }}" alt="Default profile silhouette">
   {% endif %}
   <div class="team-info">
-    <h3 class="team-name">{{ include.member.name }}</h3>
+    <h4 class="team-name">{{ include.member.name }}</h4>
     <div class="team-title">{{ include.member.title }}</div>
-    {% assign bio = include.member.content | strip %}
-    {% if bio != "" %}
-      <div class="team-bio">{{ bio | markdownify }}</div>
-    {% endif %}
     <div class="team-links">
       {% if include.member.email %}<a href="mailto:{{ include.member.email }}">email</a>{% endif %}
       {% if include.member.website %}<a href="{{ include.member.website }}">website</a>{% endif %}
