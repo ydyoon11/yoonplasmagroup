@@ -23,7 +23,7 @@ permalink: /team/pi/
 
 - **C. N. Yang Award**, AAPPS (2026)
 - **Early-Career Plasma Physicist Award**, Korea Physical Society (2025)
-- **Outstanding Young Scientist Grant**, NRF of Korea: 1,158M KRW (2025–2030)
+- **Outstanding Early-Career Scientist Grant**, NRF of Korea: 1,158M KRW (2025–2030)
 - **Junior Research Group Grant**, APCTP: 500M KRW (2022–2027)
 - **Under-30 Scientist and Student Award**, AAPPS-DPP (2022)
 - **POSCO TJ Park Foundation Science Fellowship**: 70M KRW (2022–2024)

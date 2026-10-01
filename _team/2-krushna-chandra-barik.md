@@ -1,9 +1,7 @@
 ---
 name: "Krushna Chandra Barik"
-role: "Postdoc"
+role: "Alumni"
 listed: false
-title: "Postdoctoral Researcher · APCTP"
-photo: "/assets/team/krushna-chandra-barik.jpg"
+title: "Postdoc at Chungnam National University"
 order: 1
 ---
-PINN reconstructions of spacecraft reconnection sites
