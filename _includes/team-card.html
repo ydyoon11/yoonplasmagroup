@@ -6,7 +6,6 @@
   {% endif %}
   <div class="team-info">
     <h4 class="team-name">{{ include.member.name }}</h4>
-    <div class="team-title">{{ include.member.title }}</div>
     <div class="team-links">
       {% if include.member.email %}<a href="mailto:{{ include.member.email }}">email</a>{% endif %}
       {% if include.member.website %}<a href="{{ include.member.website }}">website</a>{% endif %}

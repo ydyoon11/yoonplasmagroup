@@ -34,7 +34,7 @@ permalink: /team/members/
     {% assign alumni_sorted = alumni | sort: "order" %}
     {% for member in alumni_sorted %}
       <li class="alumni-item">
-        <span class="alumni-name">{{ member.name }}</span>{% if member.title %} <span class="alumni-sep">·</span> <span class="alumni-title">{{ member.title }}</span>{% endif %}
+        <span class="alumni-name">{{ member.name }}</span>
       </li>
     {% endfor %}
   </ul>

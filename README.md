@@ -55,7 +55,6 @@ Create `_team/<order>-<slug>.md`:
 name: "Jane Doe"
 role: "Postdoc"            # PI | Postdoc | Grad | Undergrad | Alumni
 listed: true              # set false to hide a record from the Members page
-title: "Postdoctoral Researcher"
 photo: "/assets/team/jane-doe.jpg"   # optional
 email: "jdoe@physics.ucla.edu"
 website: "https://..."     # optional
@@ -66,7 +65,7 @@ order: 1
 ```
 
 Drop the headshot at `assets/team/jane-doe.jpg` to match the `photo:` path.
-The Members page groups current members by role and omits research-area bios.
+The Members page groups current members by role and displays names without titles or research-area bios.
 
 ### Swap a hero image
 

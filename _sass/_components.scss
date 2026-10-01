@@ -151,7 +151,6 @@
   border-radius: var(--radius-sm);
 }
 .team-name  { margin: 0.6rem 0 0.1rem; font-size: 1rem; }
-.team-title { color: var(--muted); font-size: 0.85rem; }
 .team-links { font-size: 0.8rem; }
 .team-links a { margin-right: 0.5rem; }
 
@@ -164,7 +163,7 @@
   border-radius: var(--radius-sm);
 }
 
-// Alumni list (no photos — name + title rendered inline)
+// Alumni list (names only, no photos)
 .alumni-list { list-style: none; padding: 0; margin: 0; }
 .alumni-item {
   padding: 0.55rem 0;
@@ -173,8 +172,6 @@
   line-height: 1.5;
 }
 .alumni-name  { font-weight: 600; color: var(--text); }
-.alumni-sep   { color: var(--muted); margin: 0 0.15rem; }
-.alumni-title { color: var(--muted); }
 
 // Publications
 .pub-year-section { margin-top: 1.5rem; }
