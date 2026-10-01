@@ -1,7 +1,7 @@
 ---
 name: "Krushna Chandra Barik"
 role: "Alumni"
-listed: false
+listed: true
 title: "Postdoc at Chungnam National University"
-order: 1
+order: 5
 ---
