@@ -29,6 +29,10 @@ pdf: "/assets/pdfs/yoon-2026-prl.pdf"     # optional, self-hosted
 ```
 
 The body of the file can stay empty for routine entries.
+Add `status: submitted` for manuscripts under review. These appear in the
+Submitted section above all years, newest first. Remove that status when a
+paper is published to place it in its year section. Entries with
+`journal: "manuscript submitted"` also appear in Submitted automatically.
 
 ### Add a news item
 
